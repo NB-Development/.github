@@ -4,6 +4,6 @@ Moderation, Utility, Fun & much more!
 - Support: 
 https://discord.gg/URZnqtEbsQ
 - Terms of Service: 
-https://thelegendev.github.io/Nub-Bot-Docs/legal/tos/
+https://nb-development.github.io/Nub-Bot-Docs/legal/tos/
 - Privacy Policy: 
-https://thelegendev.github.io/Nub-Bot-Docs/legal/pp/
+https://nb-development.github.io/Nub-Bot-Docs/legal/pp/
